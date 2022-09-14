@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"target": "ESNext",
+		"module": "ESNext",
+		"moduleResolution": "Node",
+		"jsx": "preserve",
+		"esModuleInterop": true,
+		"strict": true,
+		"noEmit": true,
+		"sourceMap": true,
+		"paths": {
+			"*": ["src/@types/*"]
+		}
+	},
+	"include": ["src/node_modules", "src/react-env.d.ts", "src/**/*"]
+}

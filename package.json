@@ -28,7 +28,7 @@
 	},
 	"devDependencies": {
 		"@ianvs/prettier-plugin-sort-imports": "3.4.2",
-		"@pmmmwh/react-refresh-webpack-plugin": "0.5.7",
+		"@pmmmwh/react-refresh-webpack-plugin": "0.5.11",
 		"@ruffle-rs/ruffle": "0.1.0-nightly.2022.9.8",
 		"@svgr/webpack": "6.3.1",
 		"@swc/core": "1.2.249",
